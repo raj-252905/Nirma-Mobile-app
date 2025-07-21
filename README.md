@@ -1,2 +1,1 @@
-# Nirma-Mobile-app
-design Ui in figma
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/zQRplNGzYNE9dHNfSi3NoI/Nirma-app?node-id=0-1&embed-host=share" allowfullscreen></iframe>
